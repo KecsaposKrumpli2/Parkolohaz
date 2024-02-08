@@ -1,0 +1,14 @@
+C:\Users\KertACE\source\repos\bdjsvfbesdovbewsod\bdjsvfbesdovbewsod\obj\Debug\net8.0\bdjsvfbesdovbewsod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KertACE\source\repos\bdjsvfbesdovbewsod\bdjsvfbesdovbewsod\obj\Debug\net8.0\bdjsvfbesdovbewsod.AssemblyInfoInputs.cache
+C:\Users\KertACE\source\repos\bdjsvfbesdovbewsod\bdjsvfbesdovbewsod\obj\Debug\net8.0\bdjsvfbesdovbewsod.AssemblyInfo.cs
+C:\Users\KertACE\source\repos\bdjsvfbesdovbewsod\bdjsvfbesdovbewsod\obj\Debug\net8.0\bdjsvfbesdovbewsod.csproj.CoreCompileInputs.cache
+C:\Users\KertACE\source\repos\bdjsvfbesdovbewsod\bdjsvfbesdovbewsod\bin\Debug\net8.0\bdjsvfbesdovbewsod.exe
+C:\Users\KertACE\source\repos\bdjsvfbesdovbewsod\bdjsvfbesdovbewsod\bin\Debug\net8.0\bdjsvfbesdovbewsod.deps.json
+C:\Users\KertACE\source\repos\bdjsvfbesdovbewsod\bdjsvfbesdovbewsod\bin\Debug\net8.0\bdjsvfbesdovbewsod.runtimeconfig.json
+C:\Users\KertACE\source\repos\bdjsvfbesdovbewsod\bdjsvfbesdovbewsod\bin\Debug\net8.0\bdjsvfbesdovbewsod.dll
+C:\Users\KertACE\source\repos\bdjsvfbesdovbewsod\bdjsvfbesdovbewsod\bin\Debug\net8.0\bdjsvfbesdovbewsod.pdb
+C:\Users\KertACE\source\repos\bdjsvfbesdovbewsod\bdjsvfbesdovbewsod\obj\Debug\net8.0\bdjsvfbesdovbewsod.dll
+C:\Users\KertACE\source\repos\bdjsvfbesdovbewsod\bdjsvfbesdovbewsod\obj\Debug\net8.0\refint\bdjsvfbesdovbewsod.dll
+C:\Users\KertACE\source\repos\bdjsvfbesdovbewsod\bdjsvfbesdovbewsod\obj\Debug\net8.0\bdjsvfbesdovbewsod.pdb
+C:\Users\KertACE\source\repos\bdjsvfbesdovbewsod\bdjsvfbesdovbewsod\obj\Debug\net8.0\bdjsvfbesdovbewsod.genruntimeconfig.cache
+C:\Users\KertACE\source\repos\bdjsvfbesdovbewsod\bdjsvfbesdovbewsod\obj\Debug\net8.0\ref\bdjsvfbesdovbewsod.dll
